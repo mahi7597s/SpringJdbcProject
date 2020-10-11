@@ -1,0 +1,25 @@
+.bg {
+  background-image: url('../images/HomePage_bg.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: block;
+  height:100%;
+  overflow: hidden;
+}
+
+.container{
+	width: 50%;
+	height:50%;
+	
+	background-color: rgba(166, 166, 166,0.3);
+	margin: 100px auto;
+    padding: 10px;
+    position: relative;
+}
+
+
+
+h3{
+	text-align: center;
+}
